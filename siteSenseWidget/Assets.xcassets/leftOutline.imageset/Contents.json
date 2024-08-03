@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "leftOutlineDarkSmall-01.png",
+      "filename" : "Small-Back-Light-01.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -12,7 +12,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "leftOutlineLightSmall-01.png",
+      "filename" : "Small-Back-Dark-01.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
